@@ -5,9 +5,9 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** with a deep inte
 ## 🛠 Tech Stack
 
 - **Frontend**: Flutter, HTML, CSS, JavaScript
-- **Backend**: Firebase, Node.js, Express.js, PHP
+- **Backend**: Firebase, Node.js, Express.js, PHP, Laravel
 - **Databases**: Hive, Firebase Firestore, MySQL
-- **Tools & Platforms**: Git, GitHub, VS Code, Postman, Docker
+- **Tools & Platforms**: Git, GitHub, VS Code, Postman
 - **Other Skills**: API Integration, State Management (Provider, Bloc), Clean Code, Responsive Design
 
 ## 🚀 What I Do
